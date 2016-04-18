@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\sample1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\label_style.xml",
+        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\sample1\\app\\src\\main\\res\\drawable-nodpi\\label_style.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\sample1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\h001.png",
+        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\sample1\\app\\src\\main\\res\\drawable-nodpi\\h001.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\sample1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\remaining_time_dialog_close_normal.png",
+        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\sample1\\app\\src\\main\\res\\drawable-nodpi\\remaining_time_dialog_close_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\sample1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\tv.png",
+        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\sample1\\app\\src\\main\\res\\drawable-nodpi\\tv.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\sample1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\password.png",
+        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\sample1\\app\\src\\main\\res\\drawable-nodpi\\password.png"
+    }
+]

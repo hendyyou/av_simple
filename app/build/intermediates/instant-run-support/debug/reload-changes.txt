@@ -1,0 +1,3 @@
+CHANGED,C:\Users\Administrator\Documents\GitHub\sample1\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,C:\Users\Administrator\Documents\GitHub\sample1\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\tencent\avsdk\zcontrol\AVVideoControl$override.class
+CHANGED,C:\Users\Administrator\Documents\GitHub\sample1\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\tencent\avsdk\zcontrol\AVVideoControl$4$override.class

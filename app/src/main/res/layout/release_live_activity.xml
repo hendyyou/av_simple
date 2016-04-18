@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginTop="50dp"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginTop="10dp"
+        android:layout_weight="1"
+        android:background="@color/white">
+
+        <TextView
+            android:id="@+id/live_title_tip"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/widget_margin_left"
+            android:layout_marginTop="19dp"
+            android:background="@null"
+            android:gravity="center_vertical"
+            android:text="直播标题"
+            android:textColor="@color/label_text_color"
+            android:textSize="@dimen/label_text_size" />
+
+        <!--直播标题-->
+        <EditText
+            android:id="@+id/live_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/live_title_tip"
+            android:layout_marginLeft="@dimen/widget_margin_left"
+            android:layout_marginRight="@dimen/widget_margin_right"
+            android:layout_marginTop="18dp"
+            android:background="@null"
+            android:hint="@string/live_title_hint"
+            android:textColor="@color/input_text_color"
+            android:textSize="@dimen/input_text_size"
+            android:typeface="monospace" />
+
+        <View
+            android:id="@+id/line"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_below="@id/live_title"
+            android:layout_marginLeft="@dimen/line_margin_left"
+            android:layout_marginRight="@dimen/line_margin_right"
+            android:layout_marginTop="2dp"
+            android:background="@color/gray" />
+
+        <TextView
+            android:id="@+id/live_cover_tip"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/line"
+            android:layout_marginLeft="@dimen/widget_margin_left"
+            android:layout_marginTop="29dp"
+            android:background="@null"
+            android:text="@string/live_cover_hint"
+            android:textColor="@color/label_text_color"
+            android:textSize="@dimen/label_text_size" />
+
+        <!--直播封面-->
+        <ImageButton
+            android:id="@+id/live_cover"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/cover_height"
+            android:layout_below="@id/live_cover_tip"
+            android:layout_marginLeft="@dimen/widget_margin_left"
+            android:layout_marginRight="@dimen/widget_margin_right"
+            android:layout_marginTop="18dp"
+            android:background="@drawable/release_cover"
+            android:contentDescription="@string/content_desc"
+            android:scaleType="fitXY"></ImageButton>
+
+        <ImageButton
+            android:id="@+id/close_live_cover"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_alignTop="@id/live_cover_tip"
+            android:layout_marginRight="5dp"
+            android:layout_marginTop="33dp"
+            android:background="@drawable/close_cover_style"
+            android:contentDescription="closeCover"
+            android:visibility="gone"></ImageButton>
+
+        <Button
+            android:id="@+id/btn_show"
+            android:layout_width="333dp"
+            android:layout_height="44dp"
+            android:layout_below="@id/live_cover"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="29dp"
+            android:background="@drawable/main_btn_style"
+            android:enabled="false"
+            android:text="开始直播"
+            android:textColor="@color/red"
+            android:textSize="@dimen/button_text_size" />
+    </RelativeLayout>
+</LinearLayout>
