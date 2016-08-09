@@ -2,5 +2,9 @@
     {
         "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\sample1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
         "source": "C:\\Users\\Administrator\\Documents\\GitHub\\sample1\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\av_simple\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\av_simple\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
     }
 ]

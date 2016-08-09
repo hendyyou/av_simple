@@ -1,208 +1,208 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Administrator\Documents\GitHub\sample1\app\src\main\AndroidManifest.xml:2:1-97:12
+ADDED from C:\Users\Administrator\Documents\GitHub\av_simple\app\src\main\AndroidManifest.xml:2:1-97:12
 	xmlns:android
-		ADDED from C:\Users\Administrator\Documents\GitHub\sample1\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\Administrator\Documents\GitHub\av_simple\app\src\main\AndroidManifest.xml:2:11-69
 	package
-		ADDED from C:\Users\Administrator\Documents\GitHub\sample1\app\src\main\AndroidManifest.xml:3:5-32
-		INJECTED from C:\Users\Administrator\Documents\GitHub\sample1\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Administrator\Documents\GitHub\sample1\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Administrator\Documents\GitHub\av_simple\app\src\main\AndroidManifest.xml:3:5-32
+		INJECTED from C:\Users\Administrator\Documents\GitHub\av_simple\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Administrator\Documents\GitHub\av_simple\app\src\main\AndroidManifest.xml
 	android:versionName
-		ADDED from C:\Users\Administrator\Documents\GitHub\sample1\app\src\main\AndroidManifest.xml:5:5-32
-		INJECTED from C:\Users\Administrator\Documents\GitHub\sample1\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Administrator\Documents\GitHub\sample1\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Administrator\Documents\GitHub\av_simple\app\src\main\AndroidManifest.xml:5:5-32
+		INJECTED from C:\Users\Administrator\Documents\GitHub\av_simple\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Administrator\Documents\GitHub\av_simple\app\src\main\AndroidManifest.xml
 	android:versionCode
-		ADDED from C:\Users\Administrator\Documents\GitHub\sample1\app\src\main\AndroidManifest.xml:4:5-29
-		INJECTED from C:\Users\Administrator\Documents\GitHub\sample1\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Administrator\Documents\GitHub\sample1\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Administrator\Documents\GitHub\av_simple\app\src\main\AndroidManifest.xml:4:5-29
+		INJECTED from C:\Users\Administrator\Documents\GitHub\av_simple\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Administrator\Documents\GitHub\av_simple\app\src\main\AndroidManifest.xml
 uses-sdk
-ADDED from C:\Users\Administrator\Documents\GitHub\sample1\app\src\main\AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:support-v4:22.1.1] C:\Users\Administrator\Documents\GitHub\sample1\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\AndroidManifest.xml:20:5-43
-MERGED from [com.github.orhanobut:logger:1.12] C:\Users\Administrator\Documents\GitHub\sample1\app\build\intermediates\exploded-aar\com.github.orhanobut\logger\1.12\AndroidManifest.xml:6:5-8:41
+ADDED from C:\Users\Administrator\Documents\GitHub\av_simple\app\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:22.1.1] C:\Users\Administrator\Documents\GitHub\av_simple\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.github.orhanobut:logger:1.12] C:\Users\Administrator\Documents\GitHub\av_simple\app\build\intermediates\exploded-aar\com.github.orhanobut\logger\1.12\AndroidManifest.xml:6:5-8:41
 	android:targetSdkVersion
-		ADDED from C:\Users\Administrator\Documents\GitHub\sample1\app\src\main\AndroidManifest.xml:9:9-38
-		INJECTED from C:\Users\Administrator\Documents\GitHub\sample1\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Administrator\Documents\GitHub\sample1\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Administrator\Documents\GitHub\av_simple\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from C:\Users\Administrator\Documents\GitHub\av_simple\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Administrator\Documents\GitHub\av_simple\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		ADDED from C:\Users\Administrator\Documents\GitHub\sample1\app\src\main\AndroidManifest.xml:8:9-34
-		INJECTED from C:\Users\Administrator\Documents\GitHub\sample1\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Administrator\Documents\GitHub\sample1\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Administrator\Documents\GitHub\av_simple\app\src\main\AndroidManifest.xml:8:9-34
+		INJECTED from C:\Users\Administrator\Documents\GitHub\av_simple\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Administrator\Documents\GitHub\av_simple\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.ACCESS_COARSE_LOCATION
-ADDED from C:\Users\Administrator\Documents\GitHub\sample1\app\src\main\AndroidManifest.xml:11:5-81
+ADDED from C:\Users\Administrator\Documents\GitHub\av_simple\app\src\main\AndroidManifest.xml:11:5-81
 	android:name
-		ADDED from C:\Users\Administrator\Documents\GitHub\sample1\app\src\main\AndroidManifest.xml:11:22-78
+		ADDED from C:\Users\Administrator\Documents\GitHub\av_simple\app\src\main\AndroidManifest.xml:11:22-78
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from C:\Users\Administrator\Documents\GitHub\sample1\app\src\main\AndroidManifest.xml:12:5-79
+ADDED from C:\Users\Administrator\Documents\GitHub\av_simple\app\src\main\AndroidManifest.xml:12:5-79
 	android:name
-		ADDED from C:\Users\Administrator\Documents\GitHub\sample1\app\src\main\AndroidManifest.xml:12:22-76
+		ADDED from C:\Users\Administrator\Documents\GitHub\av_simple\app\src\main\AndroidManifest.xml:12:22-76
 uses-permission#android.permission.ACCESS_WIFI_STATE
-ADDED from C:\Users\Administrator\Documents\GitHub\sample1\app\src\main\AndroidManifest.xml:13:5-76
+ADDED from C:\Users\Administrator\Documents\GitHub\av_simple\app\src\main\AndroidManifest.xml:13:5-76
 	android:name
-		ADDED from C:\Users\Administrator\Documents\GitHub\sample1\app\src\main\AndroidManifest.xml:13:22-73
+		ADDED from C:\Users\Administrator\Documents\GitHub\av_simple\app\src\main\AndroidManifest.xml:13:22-73
 uses-permission#android.permission.CAMERA
-ADDED from C:\Users\Administrator\Documents\GitHub\sample1\app\src\main\AndroidManifest.xml:14:5-65
+ADDED from C:\Users\Administrator\Documents\GitHub\av_simple\app\src\main\AndroidManifest.xml:14:5-65
 	android:name
-		ADDED from C:\Users\Administrator\Documents\GitHub\sample1\app\src\main\AndroidManifest.xml:14:22-62
+		ADDED from C:\Users\Administrator\Documents\GitHub\av_simple\app\src\main\AndroidManifest.xml:14:22-62
 uses-permission#android.permission.CHANGE_NETWORK_STATE
-ADDED from C:\Users\Administrator\Documents\GitHub\sample1\app\src\main\AndroidManifest.xml:15:5-79
+ADDED from C:\Users\Administrator\Documents\GitHub\av_simple\app\src\main\AndroidManifest.xml:15:5-79
 	android:name
-		ADDED from C:\Users\Administrator\Documents\GitHub\sample1\app\src\main\AndroidManifest.xml:15:22-76
+		ADDED from C:\Users\Administrator\Documents\GitHub\av_simple\app\src\main\AndroidManifest.xml:15:22-76
 uses-permission#android.permission.GET_TASKS
-ADDED from C:\Users\Administrator\Documents\GitHub\sample1\app\src\main\AndroidManifest.xml:16:5-68
+ADDED from C:\Users\Administrator\Documents\GitHub\av_simple\app\src\main\AndroidManifest.xml:16:5-68
 	android:name
-		ADDED from C:\Users\Administrator\Documents\GitHub\sample1\app\src\main\AndroidManifest.xml:16:22-65
+		ADDED from C:\Users\Administrator\Documents\GitHub\av_simple\app\src\main\AndroidManifest.xml:16:22-65
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\Administrator\Documents\GitHub\sample1\app\src\main\AndroidManifest.xml:17:5-67
+ADDED from C:\Users\Administrator\Documents\GitHub\av_simple\app\src\main\AndroidManifest.xml:17:5-67
 	android:name
-		ADDED from C:\Users\Administrator\Documents\GitHub\sample1\app\src\main\AndroidManifest.xml:17:22-64
+		ADDED from C:\Users\Administrator\Documents\GitHub\av_simple\app\src\main\AndroidManifest.xml:17:22-64
 uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
-ADDED from C:\Users\Administrator\Documents\GitHub\sample1\app\src\main\AndroidManifest.xml:18:5-80
+ADDED from C:\Users\Administrator\Documents\GitHub\av_simple\app\src\main\AndroidManifest.xml:18:5-80
 	android:name
-		ADDED from C:\Users\Administrator\Documents\GitHub\sample1\app\src\main\AndroidManifest.xml:18:22-77
+		ADDED from C:\Users\Administrator\Documents\GitHub\av_simple\app\src\main\AndroidManifest.xml:18:22-77
 uses-permission#android.permission.READ_LOGS
-ADDED from C:\Users\Administrator\Documents\GitHub\sample1\app\src\main\AndroidManifest.xml:19:5-68
+ADDED from C:\Users\Administrator\Documents\GitHub\av_simple\app\src\main\AndroidManifest.xml:19:5-68
 	android:name
-		ADDED from C:\Users\Administrator\Documents\GitHub\sample1\app\src\main\AndroidManifest.xml:19:22-65
+		ADDED from C:\Users\Administrator\Documents\GitHub\av_simple\app\src\main\AndroidManifest.xml:19:22-65
 uses-permission#android.permission.READ_PHONE_STATE
-ADDED from C:\Users\Administrator\Documents\GitHub\sample1\app\src\main\AndroidManifest.xml:20:5-75
+ADDED from C:\Users\Administrator\Documents\GitHub\av_simple\app\src\main\AndroidManifest.xml:20:5-75
 	android:name
-		ADDED from C:\Users\Administrator\Documents\GitHub\sample1\app\src\main\AndroidManifest.xml:20:22-72
+		ADDED from C:\Users\Administrator\Documents\GitHub\av_simple\app\src\main\AndroidManifest.xml:20:22-72
 uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
-ADDED from C:\Users\Administrator\Documents\GitHub\sample1\app\src\main\AndroidManifest.xml:21:5-81
+ADDED from C:\Users\Administrator\Documents\GitHub\av_simple\app\src\main\AndroidManifest.xml:21:5-81
 	android:name
-		ADDED from C:\Users\Administrator\Documents\GitHub\sample1\app\src\main\AndroidManifest.xml:21:22-78
+		ADDED from C:\Users\Administrator\Documents\GitHub\av_simple\app\src\main\AndroidManifest.xml:21:22-78
 uses-permission#android.permission.RECORD_AUDIO
-ADDED from C:\Users\Administrator\Documents\GitHub\sample1\app\src\main\AndroidManifest.xml:22:5-71
+ADDED from C:\Users\Administrator\Documents\GitHub\av_simple\app\src\main\AndroidManifest.xml:22:5-71
 	android:name
-		ADDED from C:\Users\Administrator\Documents\GitHub\sample1\app\src\main\AndroidManifest.xml:22:22-68
+		ADDED from C:\Users\Administrator\Documents\GitHub\av_simple\app\src\main\AndroidManifest.xml:22:22-68
 uses-permission#android.permission.VIBRATE
-ADDED from C:\Users\Administrator\Documents\GitHub\sample1\app\src\main\AndroidManifest.xml:23:5-66
+ADDED from C:\Users\Administrator\Documents\GitHub\av_simple\app\src\main\AndroidManifest.xml:23:5-66
 	android:name
-		ADDED from C:\Users\Administrator\Documents\GitHub\sample1\app\src\main\AndroidManifest.xml:23:22-63
+		ADDED from C:\Users\Administrator\Documents\GitHub\av_simple\app\src\main\AndroidManifest.xml:23:22-63
 uses-permission#android.permission.WAKE_LOCK
-ADDED from C:\Users\Administrator\Documents\GitHub\sample1\app\src\main\AndroidManifest.xml:24:5-68
+ADDED from C:\Users\Administrator\Documents\GitHub\av_simple\app\src\main\AndroidManifest.xml:24:5-68
 	android:name
-		ADDED from C:\Users\Administrator\Documents\GitHub\sample1\app\src\main\AndroidManifest.xml:24:22-65
+		ADDED from C:\Users\Administrator\Documents\GitHub\av_simple\app\src\main\AndroidManifest.xml:24:22-65
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from C:\Users\Administrator\Documents\GitHub\sample1\app\src\main\AndroidManifest.xml:25:5-81
+ADDED from C:\Users\Administrator\Documents\GitHub\av_simple\app\src\main\AndroidManifest.xml:25:5-81
 	android:name
-		ADDED from C:\Users\Administrator\Documents\GitHub\sample1\app\src\main\AndroidManifest.xml:25:22-78
+		ADDED from C:\Users\Administrator\Documents\GitHub\av_simple\app\src\main\AndroidManifest.xml:25:22-78
 uses-permission#android.permission.BLUETOOTH
-ADDED from C:\Users\Administrator\Documents\GitHub\sample1\app\src\main\AndroidManifest.xml:26:5-67
+ADDED from C:\Users\Administrator\Documents\GitHub\av_simple\app\src\main\AndroidManifest.xml:26:5-67
 	android:name
-		ADDED from C:\Users\Administrator\Documents\GitHub\sample1\app\src\main\AndroidManifest.xml:26:22-65
+		ADDED from C:\Users\Administrator\Documents\GitHub\av_simple\app\src\main\AndroidManifest.xml:26:22-65
 uses-permission#android.permission.BLUETOOTH_ADMIN
-ADDED from C:\Users\Administrator\Documents\GitHub\sample1\app\src\main\AndroidManifest.xml:27:5-73
+ADDED from C:\Users\Administrator\Documents\GitHub\av_simple\app\src\main\AndroidManifest.xml:27:5-73
 	android:name
-		ADDED from C:\Users\Administrator\Documents\GitHub\sample1\app\src\main\AndroidManifest.xml:27:22-71
+		ADDED from C:\Users\Administrator\Documents\GitHub\av_simple\app\src\main\AndroidManifest.xml:27:22-71
 uses-permission#android.permission.BROADCAST_STICKY
-ADDED from C:\Users\Administrator\Documents\GitHub\sample1\app\src\main\AndroidManifest.xml:28:5-74
+ADDED from C:\Users\Administrator\Documents\GitHub\av_simple\app\src\main\AndroidManifest.xml:28:5-74
 	android:name
-		ADDED from C:\Users\Administrator\Documents\GitHub\sample1\app\src\main\AndroidManifest.xml:28:22-72
+		ADDED from C:\Users\Administrator\Documents\GitHub\av_simple\app\src\main\AndroidManifest.xml:28:22-72
 application
-ADDED from C:\Users\Administrator\Documents\GitHub\sample1\app\src\main\AndroidManifest.xml:30:5-95:19
-MERGED from [com.android.support:support-v4:22.1.1] C:\Users\Administrator\Documents\GitHub\sample1\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\AndroidManifest.xml:22:5-20
+ADDED from C:\Users\Administrator\Documents\GitHub\av_simple\app\src\main\AndroidManifest.xml:30:5-95:19
+MERGED from [com.android.support:support-v4:22.1.1] C:\Users\Administrator\Documents\GitHub\av_simple\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\AndroidManifest.xml:22:5-20
 	android:label
-		ADDED from C:\Users\Administrator\Documents\GitHub\sample1\app\src\main\AndroidManifest.xml:32:9-41
+		ADDED from C:\Users\Administrator\Documents\GitHub\av_simple\app\src\main\AndroidManifest.xml:32:9-41
 	android:allowBackup
-		ADDED from C:\Users\Administrator\Documents\GitHub\sample1\app\src\main\AndroidManifest.xml:34:9-35
+		ADDED from C:\Users\Administrator\Documents\GitHub\av_simple\app\src\main\AndroidManifest.xml:34:9-35
 	android:icon
-		ADDED from C:\Users\Administrator\Documents\GitHub\sample1\app\src\main\AndroidManifest.xml:33:9-45
+		ADDED from C:\Users\Administrator\Documents\GitHub\av_simple\app\src\main\AndroidManifest.xml:33:9-45
 	android:theme
-		ADDED from C:\Users\Administrator\Documents\GitHub\sample1\app\src\main\AndroidManifest.xml:36:9-73
+		ADDED from C:\Users\Administrator\Documents\GitHub\av_simple\app\src\main\AndroidManifest.xml:36:9-73
 	android:persistent
-		ADDED from C:\Users\Administrator\Documents\GitHub\sample1\app\src\main\AndroidManifest.xml:35:9-34
+		ADDED from C:\Users\Administrator\Documents\GitHub\av_simple\app\src\main\AndroidManifest.xml:35:9-34
 	android:name
-		ADDED from C:\Users\Administrator\Documents\GitHub\sample1\app\src\main\AndroidManifest.xml:31:9-42
+		ADDED from C:\Users\Administrator\Documents\GitHub\av_simple\app\src\main\AndroidManifest.xml:31:9-42
 activity#com.tencent.avsdk.activity.login_register.LoginActivity
-ADDED from C:\Users\Administrator\Documents\GitHub\sample1\app\src\main\AndroidManifest.xml:37:9-45:20
+ADDED from C:\Users\Administrator\Documents\GitHub\av_simple\app\src\main\AndroidManifest.xml:37:9-45:20
 	android:screenOrientation
-		ADDED from C:\Users\Administrator\Documents\GitHub\sample1\app\src\main\AndroidManifest.xml:40:13-49
+		ADDED from C:\Users\Administrator\Documents\GitHub\av_simple\app\src\main\AndroidManifest.xml:40:13-49
 	android:label
-		ADDED from C:\Users\Administrator\Documents\GitHub\sample1\app\src\main\AndroidManifest.xml:39:13-45
+		ADDED from C:\Users\Administrator\Documents\GitHub\av_simple\app\src\main\AndroidManifest.xml:39:13-45
 	android:name
-		ADDED from C:\Users\Administrator\Documents\GitHub\sample1\app\src\main\AndroidManifest.xml:38:13-66
+		ADDED from C:\Users\Administrator\Documents\GitHub\av_simple\app\src\main\AndroidManifest.xml:38:13-66
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from C:\Users\Administrator\Documents\GitHub\sample1\app\src\main\AndroidManifest.xml:41:13-44:29
+ADDED from C:\Users\Administrator\Documents\GitHub\av_simple\app\src\main\AndroidManifest.xml:41:13-44:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\Administrator\Documents\GitHub\sample1\app\src\main\AndroidManifest.xml:42:17-69
+ADDED from C:\Users\Administrator\Documents\GitHub\av_simple\app\src\main\AndroidManifest.xml:42:17-69
 	android:name
-		ADDED from C:\Users\Administrator\Documents\GitHub\sample1\app\src\main\AndroidManifest.xml:42:25-66
+		ADDED from C:\Users\Administrator\Documents\GitHub\av_simple\app\src\main\AndroidManifest.xml:42:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Administrator\Documents\GitHub\sample1\app\src\main\AndroidManifest.xml:43:17-77
+ADDED from C:\Users\Administrator\Documents\GitHub\av_simple\app\src\main\AndroidManifest.xml:43:17-77
 	android:name
-		ADDED from C:\Users\Administrator\Documents\GitHub\sample1\app\src\main\AndroidManifest.xml:43:27-74
+		ADDED from C:\Users\Administrator\Documents\GitHub\av_simple\app\src\main\AndroidManifest.xml:43:27-74
 activity#com.tencent.avsdk.activity.main.StartActivity
-ADDED from C:\Users\Administrator\Documents\GitHub\sample1\app\src\main\AndroidManifest.xml:47:9-49:52
+ADDED from C:\Users\Administrator\Documents\GitHub\av_simple\app\src\main\AndroidManifest.xml:47:9-49:52
 	android:screenOrientation
-		ADDED from C:\Users\Administrator\Documents\GitHub\sample1\app\src\main\AndroidManifest.xml:49:13-49
+		ADDED from C:\Users\Administrator\Documents\GitHub\av_simple\app\src\main\AndroidManifest.xml:49:13-49
 	android:name
-		ADDED from C:\Users\Administrator\Documents\GitHub\sample1\app\src\main\AndroidManifest.xml:48:13-56
+		ADDED from C:\Users\Administrator\Documents\GitHub\av_simple\app\src\main\AndroidManifest.xml:48:13-56
 activity#com.tencent.avsdk.activity.tab.ProgramListActivity
-ADDED from C:\Users\Administrator\Documents\GitHub\sample1\app\src\main\AndroidManifest.xml:51:9-53:52
+ADDED from C:\Users\Administrator\Documents\GitHub\av_simple\app\src\main\AndroidManifest.xml:51:9-53:52
 	android:screenOrientation
-		ADDED from C:\Users\Administrator\Documents\GitHub\sample1\app\src\main\AndroidManifest.xml:53:13-49
+		ADDED from C:\Users\Administrator\Documents\GitHub\av_simple\app\src\main\AndroidManifest.xml:53:13-49
 	android:name
-		ADDED from C:\Users\Administrator\Documents\GitHub\sample1\app\src\main\AndroidManifest.xml:52:13-61
+		ADDED from C:\Users\Administrator\Documents\GitHub\av_simple\app\src\main\AndroidManifest.xml:52:13-61
 activity#com.tencent.avsdk.activity.tab.programList.LiveActivity
-ADDED from C:\Users\Administrator\Documents\GitHub\sample1\app\src\main\AndroidManifest.xml:55:9-57:52
+ADDED from C:\Users\Administrator\Documents\GitHub\av_simple\app\src\main\AndroidManifest.xml:55:9-57:52
 	android:screenOrientation
-		ADDED from C:\Users\Administrator\Documents\GitHub\sample1\app\src\main\AndroidManifest.xml:57:13-49
+		ADDED from C:\Users\Administrator\Documents\GitHub\av_simple\app\src\main\AndroidManifest.xml:57:13-49
 	android:name
-		ADDED from C:\Users\Administrator\Documents\GitHub\sample1\app\src\main\AndroidManifest.xml:56:13-66
+		ADDED from C:\Users\Administrator\Documents\GitHub\av_simple\app\src\main\AndroidManifest.xml:56:13-66
 activity#com.tencent.avsdk.activity.tab.programList.ParadeActivity
-ADDED from C:\Users\Administrator\Documents\GitHub\sample1\app\src\main\AndroidManifest.xml:59:9-61:52
+ADDED from C:\Users\Administrator\Documents\GitHub\av_simple\app\src\main\AndroidManifest.xml:59:9-61:52
 	android:screenOrientation
-		ADDED from C:\Users\Administrator\Documents\GitHub\sample1\app\src\main\AndroidManifest.xml:61:13-49
+		ADDED from C:\Users\Administrator\Documents\GitHub\av_simple\app\src\main\AndroidManifest.xml:61:13-49
 	android:name
-		ADDED from C:\Users\Administrator\Documents\GitHub\sample1\app\src\main\AndroidManifest.xml:60:13-68
+		ADDED from C:\Users\Administrator\Documents\GitHub\av_simple\app\src\main\AndroidManifest.xml:60:13-68
 activity#com.tencent.avsdk.activity.tab.PersonalCenterActivity
-ADDED from C:\Users\Administrator\Documents\GitHub\sample1\app\src\main\AndroidManifest.xml:63:9-65:52
+ADDED from C:\Users\Administrator\Documents\GitHub\av_simple\app\src\main\AndroidManifest.xml:63:9-65:52
 	android:screenOrientation
-		ADDED from C:\Users\Administrator\Documents\GitHub\sample1\app\src\main\AndroidManifest.xml:65:13-49
+		ADDED from C:\Users\Administrator\Documents\GitHub\av_simple\app\src\main\AndroidManifest.xml:65:13-49
 	android:name
-		ADDED from C:\Users\Administrator\Documents\GitHub\sample1\app\src\main\AndroidManifest.xml:64:13-64
+		ADDED from C:\Users\Administrator\Documents\GitHub\av_simple\app\src\main\AndroidManifest.xml:64:13-64
 activity#com.tencent.avsdk.activity.publish.ReleaseActivity
-ADDED from C:\Users\Administrator\Documents\GitHub\sample1\app\src\main\AndroidManifest.xml:67:9-69:52
+ADDED from C:\Users\Administrator\Documents\GitHub\av_simple\app\src\main\AndroidManifest.xml:67:9-69:52
 	android:screenOrientation
-		ADDED from C:\Users\Administrator\Documents\GitHub\sample1\app\src\main\AndroidManifest.xml:69:13-49
+		ADDED from C:\Users\Administrator\Documents\GitHub\av_simple\app\src\main\AndroidManifest.xml:69:13-49
 	android:name
-		ADDED from C:\Users\Administrator\Documents\GitHub\sample1\app\src\main\AndroidManifest.xml:68:13-61
+		ADDED from C:\Users\Administrator\Documents\GitHub\av_simple\app\src\main\AndroidManifest.xml:68:13-61
 activity#com.tencent.avsdk.activity.publish.ReleaseLiveActivity
-ADDED from C:\Users\Administrator\Documents\GitHub\sample1\app\src\main\AndroidManifest.xml:71:9-73:52
+ADDED from C:\Users\Administrator\Documents\GitHub\av_simple\app\src\main\AndroidManifest.xml:71:9-73:52
 	android:screenOrientation
-		ADDED from C:\Users\Administrator\Documents\GitHub\sample1\app\src\main\AndroidManifest.xml:73:13-49
+		ADDED from C:\Users\Administrator\Documents\GitHub\av_simple\app\src\main\AndroidManifest.xml:73:13-49
 	android:name
-		ADDED from C:\Users\Administrator\Documents\GitHub\sample1\app\src\main\AndroidManifest.xml:72:13-65
+		ADDED from C:\Users\Administrator\Documents\GitHub\av_simple\app\src\main\AndroidManifest.xml:72:13-65
 activity#com.tencent.avsdk.activity.publish.ReleaseParadeActivity
-ADDED from C:\Users\Administrator\Documents\GitHub\sample1\app\src\main\AndroidManifest.xml:75:9-77:52
+ADDED from C:\Users\Administrator\Documents\GitHub\av_simple\app\src\main\AndroidManifest.xml:75:9-77:52
 	android:screenOrientation
-		ADDED from C:\Users\Administrator\Documents\GitHub\sample1\app\src\main\AndroidManifest.xml:77:13-49
+		ADDED from C:\Users\Administrator\Documents\GitHub\av_simple\app\src\main\AndroidManifest.xml:77:13-49
 	android:name
-		ADDED from C:\Users\Administrator\Documents\GitHub\sample1\app\src\main\AndroidManifest.xml:76:13-67
+		ADDED from C:\Users\Administrator\Documents\GitHub\av_simple\app\src\main\AndroidManifest.xml:76:13-67
 activity#com.tencent.avsdk.activity.detail.AvActivity
-ADDED from C:\Users\Administrator\Documents\GitHub\sample1\app\src\main\AndroidManifest.xml:79:9-82:66
+ADDED from C:\Users\Administrator\Documents\GitHub\av_simple\app\src\main\AndroidManifest.xml:79:9-82:66
 	android:windowSoftInputMode
-		ADDED from C:\Users\Administrator\Documents\GitHub\sample1\app\src\main\AndroidManifest.xml:82:13-64
+		ADDED from C:\Users\Administrator\Documents\GitHub\av_simple\app\src\main\AndroidManifest.xml:82:13-64
 	android:screenOrientation
-		ADDED from C:\Users\Administrator\Documents\GitHub\sample1\app\src\main\AndroidManifest.xml:81:13-49
+		ADDED from C:\Users\Administrator\Documents\GitHub\av_simple\app\src\main\AndroidManifest.xml:81:13-49
 	android:name
-		ADDED from C:\Users\Administrator\Documents\GitHub\sample1\app\src\main\AndroidManifest.xml:80:13-55
+		ADDED from C:\Users\Administrator\Documents\GitHub\av_simple\app\src\main\AndroidManifest.xml:80:13-55
 activity#com.tencent.avsdk.activity.GameOverActivity
-ADDED from C:\Users\Administrator\Documents\GitHub\sample1\app\src\main\AndroidManifest.xml:84:9-86:52
+ADDED from C:\Users\Administrator\Documents\GitHub\av_simple\app\src\main\AndroidManifest.xml:84:9-86:52
 	android:screenOrientation
-		ADDED from C:\Users\Administrator\Documents\GitHub\sample1\app\src\main\AndroidManifest.xml:86:13-49
+		ADDED from C:\Users\Administrator\Documents\GitHub\av_simple\app\src\main\AndroidManifest.xml:86:13-49
 	android:name
-		ADDED from C:\Users\Administrator\Documents\GitHub\sample1\app\src\main\AndroidManifest.xml:85:13-54
+		ADDED from C:\Users\Administrator\Documents\GitHub\av_simple\app\src\main\AndroidManifest.xml:85:13-54
 activity#com.tencent.avsdk.activity.ReplayListActivity
-ADDED from C:\Users\Administrator\Documents\GitHub\sample1\app\src\main\AndroidManifest.xml:87:9-89:52
+ADDED from C:\Users\Administrator\Documents\GitHub\av_simple\app\src\main\AndroidManifest.xml:87:9-89:52
 	android:screenOrientation
-		ADDED from C:\Users\Administrator\Documents\GitHub\sample1\app\src\main\AndroidManifest.xml:89:13-49
+		ADDED from C:\Users\Administrator\Documents\GitHub\av_simple\app\src\main\AndroidManifest.xml:89:13-49
 	android:name
-		ADDED from C:\Users\Administrator\Documents\GitHub\sample1\app\src\main\AndroidManifest.xml:88:13-56
+		ADDED from C:\Users\Administrator\Documents\GitHub\av_simple\app\src\main\AndroidManifest.xml:88:13-56
 activity#com.tencent.avsdk.activity.login_register.RegisterActivity
-ADDED from C:\Users\Administrator\Documents\GitHub\sample1\app\src\main\AndroidManifest.xml:92:9-94:52
+ADDED from C:\Users\Administrator\Documents\GitHub\av_simple\app\src\main\AndroidManifest.xml:92:9-94:52
 	android:screenOrientation
-		ADDED from C:\Users\Administrator\Documents\GitHub\sample1\app\src\main\AndroidManifest.xml:94:13-49
+		ADDED from C:\Users\Administrator\Documents\GitHub\av_simple\app\src\main\AndroidManifest.xml:94:13-49
 	android:name
-		ADDED from C:\Users\Administrator\Documents\GitHub\sample1\app\src\main\AndroidManifest.xml:93:13-69
+		ADDED from C:\Users\Administrator\Documents\GitHub\av_simple\app\src\main\AndroidManifest.xml:93:13-69

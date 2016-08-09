@@ -1,5 +1,9 @@
 [
     {
+        "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\av_simple\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
+        "source": "C:\\Users\\Administrator\\Documents\\GitHub\\av_simple\\app\\src\\main\\res\\xml\\preferences.xml"
+    },
+    {
         "merged": "C:\\Users\\Administrator\\Documents\\GitHub\\sample1\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
         "source": "C:\\Users\\Administrator\\Documents\\GitHub\\sample1\\app\\src\\main\\res\\xml\\preferences.xml"
     }

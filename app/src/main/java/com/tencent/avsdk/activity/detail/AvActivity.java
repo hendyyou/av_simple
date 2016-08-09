@@ -180,7 +180,7 @@ public class AvActivity extends BaseActivity implements OnClickListener {
     int mRotationAngle = 0;
 
 
-    private boolean mChecked = false;
+    private boolean mChecked = false;//麦克风是否关闭
     private int StreamType = 2;
     private int StreamTypeCode = DemoConstants.HLS;
     private Dialog mVideoMemberInfoDialog;
@@ -518,7 +518,6 @@ public class AvActivity extends BaseActivity implements OnClickListener {
         intentFilter.addAction(Util.ACTION_VIDEO_CLOSE);
         intentFilter.addAction(Util.ACTION_ENABLE_CAMERA_COMPLETE);
         intentFilter.addAction(Util.ACTION_SWITCH_CAMERA_COMPLETE);
-        intentFilter.addAction(Util.ACTION_INSERT_ROOM_TO_SERVER_COMPLETE);
         intentFilter.addAction(Util.ACTION_INVITE_MEMBER_VIDEOCHAT);
         intentFilter.addAction(Util.ACTION_MEMBER_CHANGE);
         intentFilter.addAction(Util.ACTION_SHOW_VIDEO_MEMBER_INFO);
@@ -578,7 +577,7 @@ public class AvActivity extends BaseActivity implements OnClickListener {
                     //上报主播心跳
                     mHeartClickTimer.schedule(mHeartClickTask, 1000, 10000);
                 } else {
-                    //主持请求界面
+                    //请求界面
                     hostRequestView(mHostIdentifier);
                 }
             } else if (action.equals(Util.ACTION_VIDEO_CLOSE)) {
@@ -655,10 +654,6 @@ public class AvActivity extends BaseActivity implements OnClickListener {
                 }
             } else if (action.equals(Util.ACTION_MEMBER_CHANGE)) {
 
-            } else if (action.equals(Util.ACTION_INSERT_ROOM_TO_SERVER_COMPLETE)) {
-                //TODO 【接收者7】插入房间到服务器
-                Log.w(TAG, "getMemberInfo isHandleMemberRoomSuccess " + mQavsdkApplication.isHandleMemberRoomSuccess() + " now is time ");
-                mHandler.sendEmptyMessageDelayed(GET_ROOM_INFO, 0);
             } else if (action.equals(Util.ACTION_INVITE_MEMBER_VIDEOCHAT)) {
                 //TODO 【接收者8】邀请人视频聊天
                 //发起邀请消息
@@ -1199,7 +1194,7 @@ public class AvActivity extends BaseActivity implements OnClickListener {
     @Override
     public void onClick(View v) {
         switch (v.getId()) {
-            case R.id.activity_av_imabtn_mic_btn:
+            case R.id.activity_av_imabtn_mic_btn://开关麦克风
                 onCheckedChanged(mChecked);
                 mChecked = !mChecked;
                 break;
@@ -1873,6 +1868,7 @@ public class AvActivity extends BaseActivity implements OnClickListener {
             }
         });
     }
+
     /**
      * 显示下方评论的信息
      */

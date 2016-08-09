@@ -59,9 +59,8 @@ public class AVVideoControl {
             mContext.sendBroadcast(new Intent(Util.ACTION_ENABLE_CAMERA_COMPLETE).putExtra(Util.EXTRA_AV_ERROR_RESULT, result).putExtra(Util.EXTRA_IS_ENABLE, enable));
         }
     };
-    /**
-     * 拍照成功的回调
-     */
+
+
     private EnableExternalCaptureCompleteCallback mEnableExternalCaptureCompleteCallback = new EnableExternalCaptureCompleteCallback() {
         @Override
         protected void onComplete(boolean enable, int result) {
